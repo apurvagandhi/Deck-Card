@@ -1,0 +1,142 @@
+Name: Apurva Gandhi
+Class: CSCI132 - 01
+Date: 02/15/2019
+Assignment 2
+SAMPLE RUN
+
+Sample run #1:
+
+ahgand22@radius:~/assignments/assign2$ ./war
+Shuffling cards.
+How many cards in each hand (not more than 26)? 27
+
+That's too many cards. Please enter a number less than 27: 0
+
+Please enter a number greater than zero: 4
+
+Dealing cards.
+
+Do you want to begin playing (y/n)? y
+
+Your card is a Queen of Diamonds
+The computer's card is a Seven of Spades
+You win this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Eight of Spades
+The computer's card is a Six of Diamonds
+You win this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Six of Hearts
+The computer's card is a Seven of Hearts
+Computer wins this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Two of Clubs
+The computer's card is a Six of Spades
+Computer wins this round
+
+Moving Computer's win pile to draw pile
+Moving Two of Clubs
+Moving Six of Spades
+Moving Six of Hearts
+Moving Seven of Hearts
+Moving your win pile to draw pile
+Moving Six of Diamonds
+Moving Eight of Spades
+Moving Seven of Spades
+Moving Queen of Diamonds
+Do you want to continue (y/n)? y
+
+Your card is a Queen of Diamonds
+The computer's card is a Seven of Hearts
+You win this round
+
+Do you want to continue (y/n)? n
+
+
+You have 5 cards.
+The computer has 3 cards.
+There are 0 in the tie pile
+You Win!
+
+
+
+
+Sample run #2:
+
+ahgand22@radius:~/assignments/assign2$ ./war
+Shuffling cards.
+How many cards in each hand (not more than 26)? 3
+
+Dealing cards.
+
+Do you want to begin playing (y/n)? y
+
+Your card is a Eight of Spades
+The computer's card is a Six of Diamonds
+You win this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Six of Hearts
+The computer's card is a Seven of Hearts
+Computer wins this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Two of Clubs
+The computer's card is a Six of Spades
+Computer wins this round
+
+Moving Computer's win pile to draw pile
+Moving Two of Clubs
+Moving Six of Spades
+Moving Six of Hearts
+Moving Seven of Hearts
+Moving your win pile to draw pile
+Moving Six of Diamonds
+Moving Eight of Spades
+Do you want to continue (y/n)? y
+
+Your card is a Eight of Spades
+The computer's card is a Seven of Hearts
+You win this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Six of Diamonds
+The computer's card is a Six of Hearts
+This round is a tie.
+
+Moving your win pile to draw pile
+Moving Seven of Hearts
+Moving Eight of Spades
+Do you want to continue (y/n)? y
+
+Your card is a Eight of Spades
+The computer's card is a Six of Spades
+You win this round
+
+Do you want to continue (y/n)? y
+
+Your card is a Seven of Hearts
+The computer's card is a Two of Clubs
+You win this round
+
+Computer have no cards left. You win!
+Moving your win pile to draw pile
+Moving Two of Clubs
+Moving Seven of Hearts
+Moving Six of Spades
+Moving Eight of Spades
+
+You have 4 cards.
+The computer has 0 cards.
+There are 2 in the tie pile
+You Win!
+

@@ -1,0 +1,16 @@
+Name: Apurva Gandhi
+Date: 02/15/2019
+Class: CSCI132 - 01
+Assignment 2
+Discussion Log: 
+
+I began working on this assignment with Margaret Haley. However, after a short discussion about the logic to find the rank of the cards, I worked on my own to finish the assignment. I assumed I was almost done. However, I came across many obstacles. I have changed my code many times. I have discussed logic, and possible error checking with Margaret Haley and Michael. I mostly worked with Margaret and we tried to trace our code to figure out the common mistakes. Furthermore, I have taken help from the Professor during office hours when I wanted to clear the concepts. I have not talked or discussed specifics of my code with anyone and have not discussed anything with anyone other than people mentioned above. Finally, I learned many new concepts including stacks. 
+
+Estimated Hours Spent: 
+8:00 pm to 2:00 am on February 10th, 2019 at Okane B-32 lab
+9:00 pm to 11:00 pm on February 11th, 2019 at Okane B-32 lab
+4:00 pm to 5:30 pm on February 12th, 2019 from the personal computer
+3:30 pm to 5:30 pm on February 13th, 2019 at Computer Lab 
+11:00 pm to 12:30 am on February 13th, 2019 from the personal computer
+4:00 pm to 7:00 pm on February 14th, 2019 from the personal computer
+8:00 pm to 9:00 pm on February 15th, 2019 from the personal computer
